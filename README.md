@@ -1,4 +1,4 @@
-         ## Oi, Eu sou o Erick
+         Oi, Eu sou o Erick
 
 <!--
 **erickplayer1/erickplayer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
