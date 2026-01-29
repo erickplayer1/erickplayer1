@@ -9,9 +9,8 @@ Here are some ideas to get you started:-->
 - 🌱 A pouco começei a estudar um pouco mais sobre IA e empreendedorismo
 - 👯 Criar um mundo melhor com projetos Open Sorce para colaborar
 - 🤔 I need a help in my work, and my profissionalization in my program inside IF
-- <!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que mais utilizo
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
