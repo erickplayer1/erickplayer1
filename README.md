@@ -16,9 +16,4 @@ Here are some ideas to get you started:-->
 
 ## Minhas Redes Sociais
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,)](https://www.instagram.com/erickvictor097/) [![My Skills](https://skillicons.dev/icons?i=gmail,)](https://www.gmail.com/erickvictor097@gmail.com/) 
-
-
-
-            <img width"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
+[![My Skills](https://skillicons.dev/icons?i=instagram,gmail)](https://www.instagram.com/erickvictor097/)
