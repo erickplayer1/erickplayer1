@@ -7,9 +7,8 @@ Here are some ideas to get you started:-->
 
 - 🔭 Atualmente sou estudante de TI do IF sul de minas
 - 🌱 A pouco começei a estudar um pouco mais sobre IA e empreendedorismo
-- 👯 Criar um mundo melhor com projetos Open Sorce para colaborar
-- 🤔 I need a help in my work, and my profissionalization in my program inside IF
-
+- 👯 Quero me desenvolver na area de tecnologia e oque me falta é colocar a mão na massa me algum projeto e meter a cara no mercado de trabalho
+- 🤏​ Nivel de Inglês é A1 entretanto estou melhorando com algumas aulas
 ## Tecnologias que mais utilizo
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
