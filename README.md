@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 🤏​ Nivel de Inglês é A1 entretanto estou melhorando com algumas aulas
 ## Tecnologias que mais utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,js,java)](https://skillicons.dev)
 
 ## Minhas Redes Sociais
 
